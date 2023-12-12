@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #38bdf8;
+  color: black;
+}
+
+::-moz-selection {
+  background: #38bdf8;
+  color: black;
+}
+
+.stripes-white-45 {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff 0px,
+    #ffffff 30px,
+    #f8fafc 30px,
+    #f8fafc 270px
+  );
+}
