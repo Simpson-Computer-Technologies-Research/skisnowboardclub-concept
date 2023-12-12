@@ -1,2 +1,2 @@
 # Ski and Snowboarding Club
-<img width="1413" alt="Screenshot 2023-11-28 at 11 31 24 AM" src="https://github.com/realTristan/SkiSnowboardClub/assets/75189508/672185f4-03fa-478f-a9c4-6e8a6e2a33a8">
+<img width="1248" alt="Screenshot 2023-12-12 at 3 41 16 PM" src="https://github.com/Simpson-Computer-Technologies-Research/skisnowboardclub-concept/assets/75189508/5de470dc-5704-4022-91ef-d4b606e029a5">
